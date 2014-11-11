@@ -1,6 +1,6 @@
 # Project instruction 1: Merges the training and the test sets to create one data set
 # Setting up the data directory as default
-# setwd("E:/R/getdata/UCI")
+# setwd("E:/R/getdata/UCI") This is my computer's default directory and will be different on your's.
 
 # Reading train data into a vestor in the memory of the system...
 trainData <- read.table("./data/train/X_train.txt")
